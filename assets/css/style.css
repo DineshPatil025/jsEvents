@@ -24,9 +24,10 @@
 /* LogIn Form CSS */
 
 
-.logInForm a:link, .logInForm a:visited{
+.headerLogIn a:link, .headerLogIn a:visited{
    
     color: black;
     font-size: 22px;
     font-weight: bold;
+    color: white !important;
 }
