@@ -22,11 +22,7 @@
 
 
 /* LogIn Form CSS */
-.logInForm{
-    background-color: lightgrey;
-    border: solid 3px red;
-    text-align: center;
-}
+
 
 .logInForm a:link, .logInForm a:visited{
    
