@@ -1,0 +1,36 @@
+.all > div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: aqua;
+    background-color: hot;
+}
+
+.skyblue > div{
+    background-color: skyblue;
+}
+
+.rosybrown > div{
+    background-color: rosybrown;
+}
+.hotpink > div{
+    background-color: hotpink;
+}
+.yellowgreen > div{
+    background-color: yellowgreen;
+}
+
+
+/* LogIn Form CSS */
+.logInForm{
+    background-color: lightgrey;
+    border: solid 3px red;
+    text-align: center;
+}
+
+.logInForm a:link, .logInForm a:visited{
+   
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
