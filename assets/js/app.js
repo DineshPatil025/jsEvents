@@ -19,3 +19,7 @@ const onChangeColor = (eve => {
 
 
 selectColor.addEventListener("change", onChangeColor)
+
+
+
+// js practice on arrayjs
