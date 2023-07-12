@@ -31,4 +31,5 @@ border: 2px solid orange;
 
 .accodHead.activ + .accodBody{
     display: block;
+ 
 }
